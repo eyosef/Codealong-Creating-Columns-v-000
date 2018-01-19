@@ -140,5 +140,8 @@ section {
 }
 
 #social a {
-  
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: yellow;
 }
