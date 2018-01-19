@@ -124,6 +124,10 @@ img, video, audio {
 
 /*Sections*/
 
+header {
+  position: fixed;
+}
+
 section {
   margin-bottom: 20px;
   padding: 20px;
